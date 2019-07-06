@@ -1,2 +1,2 @@
-# share-grafana-gui
-Share Grafana GUI
+# share-grafana
+Share Grafana
